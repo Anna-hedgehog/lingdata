@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-01T13:00:06+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-26T14:00:42+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Анна/Videos/eifman.eaf/eifman.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../eifman.mp4"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Анна/Videos/eifman.eaf/eifman (online-audio-converter.com).wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../eifman (online-audio-converter.com).wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Анна/Videos/eifman.eaf/eifman.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../eifman.mp4"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Анна/Videos/eifman.eaf/eifman (online-audio-converter.com).wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../eifman (online-audio-converter.com).wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:327801f2-dfd7-4b10-b527-9a4b28142282</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">7426</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">7436</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="166080"/>
@@ -6886,58 +6886,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1184" ANNOTATION_REF="a1143">
                 <ANNOTATION_VALUE>поиск слов</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER ANNOTATOR="Anna-hedgehog" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@bje1946m" PARTICIPANT="@bje1946m" TIER_ID="intonation@bje1946m">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1115" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1116" ANNOTATION_REF="a14">
-                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1121" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1122" ANNOTATION_REF="a21">
-                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1123" ANNOTATION_REF="a24">
-                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1124" ANNOTATION_REF="a26">
-                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1125" ANNOTATION_REF="a27">
-                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1126" ANNOTATION_REF="a28">
-                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1128" ANNOTATION_REF="a33">
-                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1129" ANNOTATION_REF="a34">
-                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -17389,6 +17337,58 @@
             <REF_ANNOTATION ANNOTATION_ID="a7426" ANNOTATION_REF="a1079">
                 <ANNOTATION_VALUE>_</ANNOTATION_VALUE>
             </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Anna-hedgehog" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="words" PARENT_REF="text@bje1946m" PARTICIPANT="@bje1946m" TIER_ID="intonation@bje1946m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7427" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7428" TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts179">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7429" TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts240">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7430" TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts298">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7431" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts336">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7432" TIME_SLOT_REF1="ts338" TIME_SLOT_REF2="ts382">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7433" TIME_SLOT_REF1="ts384" TIME_SLOT_REF2="ts465">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7434" TIME_SLOT_REF1="ts650" TIME_SLOT_REF2="ts754">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7435" TIME_SLOT_REF1="ts855" TIME_SLOT_REF2="ts921">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7436" TIME_SLOT_REF1="ts985" TIME_SLOT_REF2="ts1145">
+                <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
